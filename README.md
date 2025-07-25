@@ -1,4 +1,5 @@
 # Windows Squid Game
+# In this game, losing means… losing everything.
 
 > **EXTREME WARNING:**  
 > This script is for programming humor ONLY, inspired by the *Squid Game* series.  
